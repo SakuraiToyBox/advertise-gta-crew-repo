@@ -39,6 +39,7 @@ Suggestions and improvements are welcome. Feel free to open an issue or submit a
 Please add your preferred license (such as the MIT License) if you intend to make this repository open source.
 
 ![](./img/yozakurakai-logo.png)
+
 Copyright Notice
 
 The Yozakura-kai emblem is protected by copyright. Unauthorized use, reproduction, distribution, or modification of the emblem is strictly prohibited.
