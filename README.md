@@ -1,7 +1,6 @@
 # advertise-gta-crew-repo
 
-## *夜桜會 Crew Recruitment* 
-
+## *夜桜會 Crew Recruitment*
 
 Welcome to the official recruitment repository for the **Yozakura-kai Crew**.
 
@@ -11,24 +10,25 @@ This repository hosts a recruitment website designed to introduce the crew and p
 
 ## About
 
-The website is built with **HTML** and is securely published using **GitHub Pages** over **HTTPS**. It is intended to serve as a simple, reliable, and publicly accessible recruitment page.
+The website is built with **HTML** and is securely published using **Netlify** over **HTTPS**. It is intended to serve as a simple, reliable, and publicly accessible recruitment page.
 
 ## Features
 
 * Static website built with HTML
-* Secure hosting via GitHub Pages (HTTPS)
+* Secure hosting via Netlify (HTTPS)
 * Fast and lightweight
 * Easy to maintain and update
+* Continuous deployment — pushes to this repository are automatically built and published by Netlify
 
 ## Website
 
-Once GitHub Pages is enabled, the recruitment page will be available at:
+The recruitment page is live at:
 
 ```text
-https://<your-github-username>.github.io/<repository-name>/
+https://yozakura.netlify.app/
 ```
 
-Replace `<your-github-username>` and `<repository-name>` with your actual GitHub account and repository name.
+Netlify automatically builds and deploys the site from this repository whenever changes are pushed.
 
 ## Contributing
 
